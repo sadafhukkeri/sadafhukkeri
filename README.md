@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **sadafhukkeri1003@gmail.com**
 
